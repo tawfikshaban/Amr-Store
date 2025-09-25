@@ -1,0 +1,1 @@
+import{H as e}from"./headerComponent-DtUqXUx_.js";import{K as r,q as o}from"./index-C4XiFoUy.js";import"./_plugin-vue_export-helper-CIJmFb7j.js";const m={__name:"ourPagesView",setup(a){return(t,s)=>(o(),r(e))}};export{m as default};
